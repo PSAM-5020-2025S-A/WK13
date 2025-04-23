@@ -1,3 +1,3 @@
 # Week 13
 
-Image Neural Networks
+Classification and Training Strategies
